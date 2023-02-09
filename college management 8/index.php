@@ -1,3 +1,4 @@
+<?php echo "Hello Wordl" ?>
 <!DOCTYPE html>
 <html lang="en">
 
